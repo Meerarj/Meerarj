@@ -20,7 +20,7 @@ SKILLS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meerarj)](https://github.com/Meerarj/Meerarj/edit/main/README.md)
 
 
-[![Meera Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meerarj)](https://github.com/Meerarj/github-readme-stats)
+[![Meera Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meerarj)](https://github.com/Meerarj/github-readme-stats&theme=radical)
 
 
  Reach me @meerarj2000@gmail.com 
