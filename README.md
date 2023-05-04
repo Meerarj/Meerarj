@@ -2,10 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
 
-- 👀 I’m interested in learning new skills...
-- 🌱 I’m currently learning  Python, Golang and SQL...
+- 👀 I’m a software developer based in Chennai,India
+- 
+- I am a software developer with one year of experience in Golang,Docker,Kubernetes and building microservices. My passion for software development drives me to work on exciting projects and learn new technologies.
+- 
 -
-<!-- ![image](https://user-images.githubusercontent.com/97793229/182523426-4a1a13f0-620e-4749-8264-f757631301f4.png) -->
+
 
 - 📫 How to reach me @meerarj2000@gmail.com ...
 
