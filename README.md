@@ -3,7 +3,7 @@
 
 ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--lYQoF7Pu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y7ccr272d14ij5ixginv.png)
 
-I am a software developer with one year of experience in  building microservices and devops. My passion for software development drives me to work on exciting projects and learn new technologies.
+I am a software developer with plenty of experience in  building microservices and devops. My passion for software development drives me to work on exciting projects and learn new technologies.
 
 SKILLS
 
