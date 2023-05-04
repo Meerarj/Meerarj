@@ -5,6 +5,9 @@
 
 I am a software developer with one year of experience in Golang,Docker,Kubernetes and building microservices. My passion for software development drives me to work on exciting projects and learn new technologies.
 
+SKILLS
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 
 
