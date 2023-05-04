@@ -21,7 +21,9 @@ SKILLS
 
 
 [![Meera Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meerarj)](https://github.com/Meerarj/github-readme-stats)
-- 📫 How to reach me @meerarj2000@gmail.com ...
+
+
+ Reach me @meerarj2000@gmail.com 
 
 <!---
 Meerarj/Meerarj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
