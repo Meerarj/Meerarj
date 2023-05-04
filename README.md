@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Meera Devi G N
+## 👋 Hi, I’m Meera Devi G N
 
 ![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
 
@@ -20,6 +20,7 @@ SKILLS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meerarj)](https://github.com/Meerarj/Meerarj/edit/main/README.md)
 
 
+[![Meera Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meerarj)](https://github.com/Meerarj/github-readme-stats)
 - 📫 How to reach me @meerarj2000@gmail.com ...
 
 <!---
