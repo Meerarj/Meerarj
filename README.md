@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Meera Devi G N
 
-![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
 
 ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--lYQoF7Pu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y7ccr272d14ij5ixginv.png)
 
