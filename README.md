@@ -2,11 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
 
-- 👀 I’m a software developer based in Chennai,India
-- 
-- I am a software developer with one year of experience in Golang,Docker,Kubernetes and building microservices. My passion for software development drives me to work on exciting projects and learn new technologies.
-- 
--
+
+I am a software developer with one year of experience in Golang,Docker,Kubernetes and building microservices. My passion for software development drives me to work on exciting projects and learn new technologies.
+
+
 
 
 - 📫 How to reach me @meerarj2000@gmail.com ...
