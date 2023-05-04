@@ -17,6 +17,10 @@ SKILLS
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meerarj)](https://github.com/Meerarj/Meerarj/edit/main/README.md)
 
 
